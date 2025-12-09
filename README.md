@@ -2,4 +2,4 @@
 Training for last semester!
 
 My first commit to a branch
-Why isnt this deleted?
+Why isn't this deleted?
